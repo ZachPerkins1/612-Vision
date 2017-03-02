@@ -1,2 +1,2 @@
-cd 612-2016-Vision
+cd 612-Vision
 python process.py

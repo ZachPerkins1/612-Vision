@@ -1,4 +1,4 @@
 killall -9 python
-cd Desktop/thing
-python main.py
+cd Desktop/612-Vision
+python stream.py
 cd ..
